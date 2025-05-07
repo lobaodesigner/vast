@@ -1,0 +1,4 @@
+flux-dev:
+  repo: cocktailpeanut/flux1-dev
+  file: flux1-dev.sft
+  base: flux
